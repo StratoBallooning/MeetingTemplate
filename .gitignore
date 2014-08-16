@@ -105,6 +105,10 @@ sympy-plots-for-*.tex/
 # xindy
 *.xdy
 
+# minutes
+*.minTsk
+*.ptc*
+
 # ==========
 # Windows
 # ==========
